@@ -1,0 +1,34 @@
+[
+  {
+    "type": "bookmarks",
+    "subtype": "bookmarks-managed"
+  },
+  {
+    "title": "Learn JSON in 10 minutes (YT)",
+    "url": "https://youtu.be/iiADhChRriM",
+    "description": "Quick overview of JSON, what it is, how it is structured, and how to begin using it."
+    "tags": [
+      "JSON",
+      "javascript",
+      "coding",
+      "backend",
+      "development",
+      "video",
+      "basic"
+    ]
+  },
+  {
+    "url": "https://youtu.be/U_gANjtv28g",
+    "title": "7 Amazing Developer Tools that you're not using yet (YT)",
+    "description": "Web and/or Front-end Developer tools/services, including web-based",
+    "tags": [
+      "frontend",
+      "development",
+      "basic",
+      "intermediate",
+      "video",
+      "CSS",
+      "design"
+    ]
+  }
+]
