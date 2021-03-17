@@ -6,7 +6,7 @@
   {
     "title": "Learn JSON in 10 minutes (YT)",
     "url": "https://youtu.be/iiADhChRriM",
-    "description": "Quick overview of JSON, what it is, how it is structured, and how to begin using it."
+    "description": "Quick overview of JSON, what it is, how it is structured, and how to begin using it.",
     "tags": [
       "JSON",
       "javascript",
@@ -14,7 +14,8 @@
       "backend",
       "development",
       "video",
-      "basic"
+      "basic",
+      "youtube"
     ]
   },
   {
@@ -28,7 +29,8 @@
       "intermediate",
       "video",
       "CSS",
-      "design"
+      "design",
+      "youtube"
     ]
   }
 ]
